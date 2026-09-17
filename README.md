@@ -134,7 +134,7 @@ The application will open in your browser at:
 ```text
 http://localhost:8501
 ```
-
+Check the application live at [Link](https://deepgaurd-deepfake-detection-system.streamlit.app/)
 ---
 
 ## 🖼️ Using the Application
